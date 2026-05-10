@@ -168,8 +168,6 @@ deal-structuring-ai/
 - **LLM-generated narrative** — use GPT-4o to produce a plain-English deal memo summarizing all agent outputs, formatted like a banker's recommendation letter
 - **Sensitivity analysis** — sweep deal price or EPS assumptions to show accretion/dilution breakeven thresholds
 - **Comparable transactions** — integrate a database or web search agent to pull comparable M&A deal multiples for valuation benchmarking
-- **Web UI** — wrap the pipeline in a Gradio or Streamlit interface for non-technical users
-
 ---
 
 ## Context
